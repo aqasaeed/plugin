@@ -227,14 +227,15 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {146340607},--Sudo users
+    sudo_users = {146340607,141941906},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[SPARTACUS Robot Ver 3.7
-AntispamBot : @tele_sparta
+    about_text = [[Megabot Robot Ver 3.7
+AntispamBot : @tele_mega
 Our Channel : @sparta_antispam
 Admins
 @blackhacker666 [Developer]
+@alireza_tabrizi [Admin]
 http://uupload.ir/files/mxct_tele_spartacus.jpg
 ]],
     help_text_realm = [[
@@ -436,7 +437,6 @@ This command will send text to [group_id]
 
 ⚠️  تنها معاونان و مديران ميتوانند 
 جزييات مديريتی گروه را تغيير دهند.
-Channel : @lua_programing
 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ]]
   }
